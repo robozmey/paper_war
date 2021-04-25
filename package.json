@@ -1,0 +1,14 @@
+{
+  "name": "paper_war",
+  "version": "1.0.0",
+  "description": "game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start_master": "node master_server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "robozmey",
+  "license": "ISC"
+}
